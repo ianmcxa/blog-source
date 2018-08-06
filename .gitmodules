@@ -1,0 +1,3 @@
+[submodule "hugo-dusk"]
+	path = hugo-dusk
+	url = ./themes/hugo-dusk/
