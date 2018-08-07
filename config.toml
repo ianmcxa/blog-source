@@ -26,8 +26,15 @@ pygmentsCodeFences = true
   url = "/post/"
 
 [[menu.main]]
-  name = "About"
+  name = "Projects"
   weight = -115
+  identifier = "projects"
+  url = "/projects"
+
+
+[[menu.main]]
+  name = "About"
+  weight = -110
   identifier = "about"
   url = "/about"
 
@@ -46,3 +53,6 @@ pygmentsCodeFences = true
   text = "#fffad6"
   code-quote-bg = "#1D1F21" # background color for quotes and code blocks
   copyright = "#404040" # copyright text color
+
+[blackfriday]
+   hrefTargetBlank = true
