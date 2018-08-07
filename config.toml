@@ -37,13 +37,12 @@ pygmentsCodeFences = true
 
 [params]
   github = "ianmcxa"
-  gitlab = "ianmcxa"
   email = "ianmcxa@tutanota.com"
 
 [params.colors]
   # hugo-dusk colors
-  background = "#101010" # background color for the site
-  main = "#99cc66"
-  text = "#dbdbdb"
+  background = "#0e1419" # background color for the site
+  main = "#de93ff"
+  text = "#fffad6"
   code-quote-bg = "#1D1F21" # background color for quotes and code blocks
   copyright = "#404040" # copyright text color
