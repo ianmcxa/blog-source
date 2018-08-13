@@ -2,7 +2,6 @@
 title: "Controlling Lights With My Pebble Smartwatch"
 date: 2018-08-10T21:44:14-04:00
 tags: ["Raspberry Pi", "Home automation", "Smartwatch", "Golang", "Android", "Pebble"]
-draft: true
 ---
 
 <video controls width="600" src="/video/lighting-control-demo.mp4"/>
