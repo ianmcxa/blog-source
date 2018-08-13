@@ -45,6 +45,7 @@ pygmentsCodeFences = true
 [params]
   github = "ianmcxa"
   email = "ianmcxa@tutanota.com"
+  twitter = "ian_mcxa"
 
 [params.colors]
   # hugo-dusk colors

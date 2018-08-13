@@ -1,6 +1,7 @@
 ---
 title: "Locking myself out of my Linux Server (and breaking in again)"
 date: 2018-08-05T23:31:41-04:00
+tags: ["Linux", "Security"]
 ---
 
 I have a little Linux VPS server that I use for various things. It runs some of the sites I've made over the years, and runs a Deluge, which if your not familiar, is a torrent client. It's useful for seeding Linux ISOs and sharing files and whatnot.
