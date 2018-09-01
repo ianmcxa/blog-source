@@ -5,6 +5,10 @@ date: 2018-08-06T21:10:28-04:00
  
  These are some of the projects I've done over the years.
 
+## [Soft Sound](https://github.com/ianmcxa/Soft-Sound)
+
+Soft sound is an Android sound machine. It lets you mix different sound loops together to create background noise. I originally wrote the code in a single day, but went back to add more sounds and make the UI look better.
+
 ## [LearnSteno](https://learnsteno.mcxa.org)
 
  LearnSteno is a project to create a modern platform for learning [stenotype](https://en.wikipedia.org/wiki/Stenotype) with [plover](http://www.openstenoproject.org/). The project consists of practice drills and lessons. Learnsteno is written in VueJS.
